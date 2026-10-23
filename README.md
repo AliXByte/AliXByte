@@ -36,7 +36,7 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 ![Proxy](https://img.shields.io/badge/-Proxy%20Networking-7b2cbf?style=for-the-badge)
 ![Bots](https://img.shields.io/badge/-Bots%20%26%20Automation-ff9f1c?style=for-the-badge)
 
-</div>
+<br><br>
 
 | ⚙️ Domain | 🔧 What I work with |
 |---|---|
@@ -45,6 +45,8 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 | **Web Front** | HTML, CSS, JavaScript |
 | **Low-Level** | Assembly, memory & binary internals |
 | **Security** | Secure-by-design development, defensive mindset |
+
+</div>
 
 ---
 
