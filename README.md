@@ -4,15 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=640&lines=I+build+tools+that+work.;I+understand+how+they+break.;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Qt+%C2%B7+ASM;Code.+Break.+Secure.+Repeat." alt="typing"/>
 
-<br>
-
 ![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20SECURITY-ff0055?style=for-the-badge&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/STACK-PYTHON%20%7C%20C%2B%2B%20%7C%20C%23-00c2ff?style=for-the-badge&labelColor=0d1117)
 ![Mode](https://img.shields.io/badge/MODE-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
----
 
 ## 🧠 How I Think
 
@@ -21,22 +17,16 @@
 
 That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
----
-
 ## ⚔️ Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,flask,cs,cpp,qt,js,html,css&perline=8" />
 
-<br><br>
-
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
 ![Security](https://img.shields.io/badge/-Cyber%20Security-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=00ff88)
 ![Proxy](https://img.shields.io/badge/-Proxy%20Networking-7b2cbf?style=for-the-badge)
 ![Bots](https://img.shields.io/badge/-Bots%20%26%20Automation-ff9f1c?style=for-the-badge)
-
-<br><br>
 
 | ⚙️ Domain | 🔧 What I work with |
 |---|---|
@@ -47,8 +37,6 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 | **Security** | Secure-by-design development, defensive mindset |
 
 </div>
-
----
 
 <div align="center">
 
