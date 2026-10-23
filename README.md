@@ -1,51 +1,79 @@
-<h1 align="center">⚡ AliXByte</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer · Systems Programmer · Security Mind</b><br>
-  <i>I build tools that work, and I understand how they break.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=AliXByte&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%C2%B7%20Security%20%C2%B7%20Code&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-00ff88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-ff0055?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=640&lines=I+build+tools+that+work.;I+understand+how+they+break.;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Qt+%C2%B7+ASM;Code.+Break.+Secure.+Repeat." alt="typing"/>
+
+<br>
+
+![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20SECURITY-ff0055?style=for-the-badge&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/STACK-PYTHON%20%7C%20C%2B%2B%20%7C%20C%23-00c2ff?style=for-the-badge&labelColor=0d1117)
+![Mode](https://img.shields.io/badge/MODE-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
 ## 🧠 How I Think
 
-Most developers learn how to make software work. I also learn how it fails, from the web layer down to the assembly. That mindset shapes everything I ship: fast, clean, and hard to break.
+> *Most developers learn how to make software work.*
+> *I also learn how it fails, from the web layer down to the assembly.*
+
+That mindset shapes everything I ship: **fast, clean, and hard to break.**
+
+---
 
 ## ⚔️ Arsenal
 
-| Domain | Tools |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,flask,cs,cpp,qt,js,html,css&perline=8" />
+
+<br><br>
+
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
+![Security](https://img.shields.io/badge/-Cyber%20Security-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=00ff88)
+![Proxy](https://img.shields.io/badge/-Proxy%20Networking-7b2cbf?style=for-the-badge)
+![Bots](https://img.shields.io/badge/-Bots%20%26%20Automation-ff9f1c?style=for-the-badge)
+
+</div>
+
+| ⚙️ Domain | 🔧 What I work with |
 |---|---|
-| **Backend & Automation** | Python, Flask, REST APIs, Bots, Proxy networking |
+| **Backend & Automation** | Python, Flask, REST APIs, bots, proxy networking |
 | **Native & Desktop** | C++, C#, Qt |
 | **Web Front** | HTML, CSS, JavaScript |
 | **Low-Level** | Assembly, memory & binary internals |
 | **Security** | Secure-by-design development, defensive mindset |
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
+---
 
-## 🚀 Featured
+## 🚀 Featured Project
 
-### [ByteSMS](https://github.com/AliXByte/ByteSMS)
-Multi-user SMS operations panel with Bale bot integration and HTTP/SOCKS5 proxy support. Flask backend, modern UI.
+<div align="center">
 
-## 💼 Hire Me
+### ⚡ [ByteSMS](https://github.com/AliXByte/ByteSMS)
 
-Bots, web panels, desktop tools, automation. Client code stays private under NDA; demos and case studies are published here.
+*Multi-user SMS operations panel with Bale bot integration and HTTP/SOCKS5 proxy support.*
+**Flask backend · modern UI**
 
-📩 **Telegram:** [@your_username](https://t.me/your_username)
-📧 **Email:** your_email@example.com
+[![ByteSMS](https://img.shields.io/badge/OPEN-ByteSMS-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AliXByte/ByteSMS)
+
+</div>
 
 ---
-<p align="center"><b>Build it right. Build it secure. Ship it.</b></p>
+
+## 📡 Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@your__username-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Email](https://img.shields.io/badge/Email-your__email@example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+
+<br>
+
+**Build it right. Build it secure. Ship it.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+
+</div>
