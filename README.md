@@ -48,21 +48,6 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### ⚡ [ByteSMS](https://github.com/AliXByte/ByteSMS)
-
-*Multi-user SMS operations panel with Bale bot integration and HTTP/SOCKS5 proxy support.*
-**Flask backend · modern UI**
-
-[![ByteSMS](https://img.shields.io/badge/OPEN-ByteSMS-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AliXByte/ByteSMS)
-
-</div>
-
----
-
 <div align="center">
 
 **Build it right. Build it secure. Ship it.**
