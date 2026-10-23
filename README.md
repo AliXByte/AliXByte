@@ -63,14 +63,7 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
 ---
 
-## 📡 Connect
-
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@your__username-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Email-your__email@example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-
-<br>
 
 **Build it right. Build it secure. Ship it.**
 
