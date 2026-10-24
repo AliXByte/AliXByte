@@ -17,6 +17,28 @@
 
 That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
+## 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliXByte&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AliXByte&theme=react&hide_border=true&background=0d1117&ring=00ff88&fire=ff0055&currStreakLabel=00ff88"/>
+
+</div>
+
+## 🚀 Featured project
+
+<div align="center">
+
+### [ByteENDE](https://github.com/AliXByte/ByteENDE)
+Self-hosted encode/decode, hashing &amp; crypto toolbox — a secured web dashboard and a Bearer-token REST API, hardened with CSRF protection, per-IP/MAC access control and a full audit log.
+
+<a href="https://github.com/AliXByte/ByteENDE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteENDE&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
 ## ⚔️ Arsenal
 
 <div align="center">
