@@ -127,7 +127,6 @@ Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-AliXByte-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliXByte)
-[![Email](https://img.shields.io/badge/-Contact-ff0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisport1308@gmail.com)
 
 </div>
 
