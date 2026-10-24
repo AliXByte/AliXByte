@@ -26,16 +26,29 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
 </div>
 
-## 🚀 Featured project
+## 🔥 Latest Project
 
 <div align="center">
 
-### [ByteENDE](https://github.com/AliXByte/ByteENDE)
-Self-hosted encode/decode, hashing &amp; crypto toolbox — a secured web dashboard and a Bearer-token REST API, hardened with CSRF protection, per-IP/MAC access control and a full audit log.
-
-<a href="https://github.com/AliXByte/ByteENDE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteENDE&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+<a href="https://github.com/AliXByte/ByteADB-V1">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=00D4FF&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%B1+ByteADB+V1" alt="ByteADB"/>
 </a>
+
+**Full-control ADB toolkit — not another wrapper script.**
+<br>
+20 core modules · 21 menu sections · 150+ commands · ROM compatible
+
+<br>
+
+<a href="https://github.com/AliXByte/ByteADB-V1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteADB-V1&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+
+<br>
+
+![CLI](https://img.shields.io/badge/CLI-Python-00ff88?style=flat-square&labelColor=0d1117)
+![ADB](https://img.shields.io/badge/ADB-Android-00c2ff?style=flat-square&labelColor=0d1117)
+![Version](https://img.shields.io/badge/v1.0.0-stable-ff0055?style=flat-square&labelColor=0d1117)
 
 </div>
 
