@@ -10,6 +10,8 @@
 
 </div>
 
+---
+
 ## 🧠 How I Think
 
 > *Most developers learn how to make software work.*
@@ -17,17 +19,23 @@
 
 That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
+I don't slap a framework on top and hope for the best — I understand what happens underneath, from how memory is laid out to how a network packet gets parsed. That's why my tools tend to be small, direct, and reliable instead of bloated.
+
+---
+
 ## 🔥 Latest Project
 
 <div align="center">
 
 <a href="https://github.com/AliXByte/ByteADB-V1">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=00D4FF&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%B1+ByteADB+V1" alt="ByteADB"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=00D4FF&center=true&vCenter=true&width=450&height=45&lines=%F0%9F%93%B1+ByteADB+V1" alt="ByteADB"/>
 </a>
 
 **Full-control ADB toolkit — not another wrapper script.**
+
+A professional CLI + interactive dashboard for managing Android devices over ADB.
 <br>
-20 core modules · 21 menu sections · 150+ commands · ROM compatible
+Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, Pixel, and Huawei ROMs.
 
 <br>
 
@@ -37,11 +45,26 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
 <br>
 
-![CLI](https://img.shields.io/badge/CLI-Python-00ff88?style=flat-square&labelColor=0d1117)
-![ADB](https://img.shields.io/badge/ADB-Android-00c2ff?style=flat-square&labelColor=0d1117)
-![Version](https://img.shields.io/badge/v1.0.0-stable-ff0055?style=flat-square&labelColor=0d1117)
+![Modules](https://img.shields.io/badge/20-core_modules-00d4ff?style=flat-square&labelColor=0d1117)
+![Sections](https://img.shields.io/badge/21-menu_sections-00ff88?style=flat-square&labelColor=0d1117)
+![Commands](https://img.shields.io/badge/150+-commands-bb9af7?style=flat-square&labelColor=0d1117)
+![ROM](https://img.shields.io/badge/multi-ROM_compatible-ff0055?style=flat-square&labelColor=0d1117)
 
 </div>
+
+---
+
+## 🛠️ Other Projects
+
+<div align="center">
+
+<a href="https://github.com/AliXByte/ByteENDE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteENDE&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
 
 ## ⚔️ Arsenal
 
@@ -49,10 +72,20 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 
 <img src="https://skillicons.dev/icons?i=py,flask,cs,cpp,qt,js,html,css&perline=8" />
 
+<br><br>
+
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
 ![Security](https://img.shields.io/badge/-Cyber%20Security-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=00ff88)
 ![Proxy](https://img.shields.io/badge/-Proxy%20Networking-7b2cbf?style=for-the-badge)
 ![Bots](https://img.shields.io/badge/-Bots%20%26%20Automation-ff9f1c?style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android%20Internals-3ddc84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=fcc624)
+
+</div>
+
+<br>
+
+<div align="center">
 
 | ⚙️ Domain | 🔧 What I work with |
 |---|---|
@@ -60,13 +93,51 @@ That mindset shapes everything I ship: **fast, clean, and hard to break.**
 | **Native & Desktop** | C++, C#, Qt |
 | **Web Front** | HTML, CSS, JavaScript |
 | **Low-Level** | Assembly, memory & binary internals |
+| **Mobile & ADB** | Android platform tools, device control, ROM compatibility |
 | **Security** | Secure-by-design development, defensive mindset |
 
 </div>
 
+---
+
+## 💡 Philosophy
+
 <div align="center">
 
-**Build it right. Build it secure. Ship it.**
+```
+ ╔═══════════════════════════════════════════════════════════╗
+ ║                                                           ║
+ ║   "If you can't explain what your code does at the        ║
+ ║    byte level, you don't really understand it."           ║
+ ║                                                           ║
+ ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+- 🔒 **Security first** — every feature is designed with the assumption it will be attacked
+- ⚡ **No bloat** — if a dependency isn't earning its keep, it gets cut
+- 🎯 **CLI over GUI** — the terminal is the control room, not a fallback
+- 🧪 **Break it yourself** — if I haven't tried to break it, I don't ship it
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-AliXByte-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliXByte)
+[![Email](https://img.shields.io/badge/-Contact-ff0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisport1308@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=565f89&center=true&vCenter=true&width=500&height=30&lines=Build+it+right.+Build+it+secure.+Ship+it." alt="motto"/>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
