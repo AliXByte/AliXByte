@@ -122,16 +122,6 @@ Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, 
 
 ---
 
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-AliXByte-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliXByte)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=565f89&center=true&vCenter=true&width=500&height=30&lines=Build+it+right.+Build+it+secure.+Ship+it." alt="motto"/>
