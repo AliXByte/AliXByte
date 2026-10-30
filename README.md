@@ -27,28 +27,29 @@ I don't slap a framework on top and hope for the best — I understand what happ
 
 <div align="center">
 
-<a href="https://github.com/AliXByte/ByteADB-V1">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=00D4FF&center=true&vCenter=true&width=450&height=45&lines=%F0%9F%93%B1+ByteADB+V1" alt="ByteADB"/>
+<a href="https://github.com/AliXByte/ByteRelay">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=00D4FF&center=true&vCenter=true&width=450&height=45&lines=%E2%9A%A1+ByteRelay" alt="ByteRelay"/>
 </a>
 
-**Full-control ADB toolkit — not another wrapper script.**
+**An 8-channel, Ethernet-controlled relay controller — real hardware, not a prototype.**
 
-A professional CLI + interactive dashboard for managing Android devices over ADB.
+Web panel, physical buttons, schedules, scenes and a secured REST API, built on an ESP32-S3,
+designed to run 24/7 and recover from faults on its own.
 <br>
-Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, Pixel, and Huawei ROMs.
+Sold assembled and cased at **[pixelshop24.com](https://www.pixelshop24.com)** — firmware updates and documentation are on GitHub.
 
 <br>
 
-<a href="https://github.com/AliXByte/ByteADB-V1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteADB-V1&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+<a href="https://github.com/AliXByte/ByteRelay">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteRelay&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
 </a>
 
 <br>
 
-![Modules](https://img.shields.io/badge/20-core_modules-00d4ff?style=flat-square&labelColor=0d1117)
-![Sections](https://img.shields.io/badge/21-menu_sections-00ff88?style=flat-square&labelColor=0d1117)
-![Commands](https://img.shields.io/badge/150+-commands-bb9af7?style=flat-square&labelColor=0d1117)
-![ROM](https://img.shields.io/badge/multi-ROM_compatible-ff0055?style=flat-square&labelColor=0d1117)
+![MCU](https://img.shields.io/badge/MCU-ESP32--S3-ff0055?style=flat-square&labelColor=0d1117)
+![Relays](https://img.shields.io/badge/relays-up_to_8-00ff88?style=flat-square&labelColor=0d1117)
+![Network](https://img.shields.io/badge/network-Ethernet_only-bb9af7?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-shipping-00d4ff?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -57,6 +58,10 @@ Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, 
 ## 🛠️ Other Projects
 
 <div align="center">
+
+<a href="https://github.com/AliXByte/ByteADB-V1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteADB-V1&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
 
 <a href="https://github.com/AliXByte/ByteENDE">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliXByte&repo=ByteENDE&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00c2ff&text_color=c9d1d9" />
@@ -70,11 +75,12 @@ Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,flask,cs,cpp,qt,js,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,flask,cs,cpp,qt,arduino,js,html,css&perline=9" />
 
 <br><br>
 
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
+![Embedded](https://img.shields.io/badge/-Embedded%20%2F%20IoT-ff6f00?style=for-the-badge&logo=espressif&logoColor=white)
 ![Security](https://img.shields.io/badge/-Cyber%20Security-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=00ff88)
 ![Proxy](https://img.shields.io/badge/-Proxy%20Networking-7b2cbf?style=for-the-badge)
 ![Bots](https://img.shields.io/badge/-Bots%20%26%20Automation-ff9f1c?style=for-the-badge)
@@ -89,6 +95,7 @@ Built with Python, Rich, and Click — designed to work across Xiaomi, Samsung, 
 
 | ⚙️ Domain | 🔧 What I work with |
 |---|---|
+| **Embedded & IoT** | ESP32, Arduino, Ethernet/W5500, sensors, firmware OTA |
 | **Backend & Automation** | Python, Flask, REST APIs, bots, proxy networking |
 | **Native & Desktop** | C++, C#, Qt |
 | **Web Front** | HTML, CSS, JavaScript |
