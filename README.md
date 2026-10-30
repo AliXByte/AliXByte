@@ -7,6 +7,7 @@
 ![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20SECURITY-ff0055?style=for-the-badge&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/STACK-PYTHON%20%7C%20C%2B%2B%20%7C%20C%23-00c2ff?style=for-the-badge&labelColor=0d1117)
 ![Mode](https://img.shields.io/badge/MODE-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117)
+<a href="https://t.me/AliXByte"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@AliXByte-26A5E4?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=white"></a>
 
 </div>
 
@@ -132,6 +133,10 @@ Sold assembled and cased at **[pixelshop24.com](https://www.pixelshop24.com)** â
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=565f89&center=true&vCenter=true&width=500&height=30&lines=Build+it+right.+Build+it+secure.+Ship+it." alt="motto"/>
+
+<br><br>
+
+<a href="https://t.me/AliXByte"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@AliXByte-26A5E4?style=flat-square&labelColor=0d1117&logo=telegram&logoColor=white"></a>
 
 <br>
 
